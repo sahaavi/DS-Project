@@ -1,0 +1,9 @@
+aws
+host_name = 'youtube.ccotmgxsehhh.us-west-1.rds.amazonaws.com'
+dbname = 'yt'
+port = '5432'
+username = 'avishek'
+password = 'itsHello8920'
+
+youtube
+api_key = 'AIzaSyASeS22KBi2mR8qjf8PRJvGWkzwU9py5pQ'
